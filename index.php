@@ -11,7 +11,7 @@ and open the template in the editor.
     </head>
     <body>
         <?php
-        echo "this is prog02";
+        echo "this is prog02 (Step 4 edit in prog02). ";
         echo "this is project 13";
         ?>
     </body>
